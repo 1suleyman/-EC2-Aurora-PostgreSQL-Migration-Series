@@ -42,13 +42,13 @@ Each part builds intentionally toward an **enterprise-grade migration**, coverin
 
 ## ⭐ **Part 1 — Guardrails (Cost + Safety First)**
 
-📁 **Path:** [`lab-00-guardrails`](./lab-00-guardrails)
+📁 **Path:** [`lab-00-guardrails`](https://github.com/1suleyman/-Lab-0-Guardrails-Cost-Safety-/tree/main)
 
 * Resource tagging (Project, Owner, TTL)
 * AWS Budgets alerts
 * Prevent runaway Aurora costs
 
-👉 **[Go to Part 1](./lab-00-guardrails)**
+👉 **[Go to Part 1](https://github.com/1suleyman/-Lab-0-Guardrails-Cost-Safety-/tree/main)**
 
 ---
 
