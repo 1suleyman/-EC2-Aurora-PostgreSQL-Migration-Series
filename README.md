@@ -54,14 +54,14 @@ Each part builds intentionally toward an **enterprise-grade migration**, coverin
 
 ## ⭐ **Part 2 — EC2 + Docker PostgreSQL (Source DB)**
 
-📁 **Path:** [`lab-01-ec2-docker-postgres`](./lab-01-ec2-docker-postgres)
+📁 **Path:** [`lab-01-ec2-docker-postgres`](https://github.com/1suleyman/-Lab-1-EC2-Docker-PostgreSQL-Source-DB-/tree/main)
 
 * Launch EC2
 * Install Docker + Compose
 * Run PostgreSQL container
 * Seed data + roles
 
-👉 **[Go to Part 2](./lab-01-ec2-docker-postgres)**
+👉 **[Go to Part 2](https://github.com/1suleyman/-Lab-1-EC2-Docker-PostgreSQL-Source-DB-/tree/main)**
 
 ---
 
