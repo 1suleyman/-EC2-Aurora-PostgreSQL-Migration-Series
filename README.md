@@ -54,7 +54,7 @@ Each part builds intentionally toward an **enterprise-grade migration**, coverin
 
 ## ⭐ **Part 2 — EC2 + Docker PostgreSQL (Source DB)**
 
-📁 **Path:** [`lab-01-ec2-docker-postgres`](https://github.com/1suleyman/-Lab-1-IaC-EC2-Docker-PostgreSQL-Source-DB-Terraform-/tree/main)
+📁 **Path:** [`lab-01-ec2-docker-postgres`](https://github.com/1suleyman/-Lab-1-EC2-Docker-PostgreSQL-Source-DB-/tree/main)
 
 * Launch EC2
 * Install Docker + Compose
@@ -75,6 +75,7 @@ Each part builds intentionally toward an **enterprise-grade migration**, coverin
 * Troubleshooting scenarios
 
 👉 **[Go to Part 3](https://github.com/1suleyman/-Lab-2-Backup-EC2-PostgreSQL-Docker-Based-/tree/main)**
+👉 **[Go to Part 3 (Terraform)](https://github.com/1suleyman/-Lab-2-Terraform-Backup-EC2-PostgreSQL-Database-Idempotent-/tree/main)**
 
 ---
 
