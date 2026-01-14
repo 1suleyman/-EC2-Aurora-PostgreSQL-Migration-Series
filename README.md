@@ -68,13 +68,13 @@ Each part builds intentionally toward an **enterprise-grade migration**, coverin
 
 ## ⭐ **Part 3 — Backup EC2 PostgreSQL**
 
-📁 **Path:** [`lab-02-backup-ec2-postgres`](./lab-02-backup-ec2-postgres)
+📁 **Path:** [`lab-02-backup-ec2-postgres`](https://github.com/1suleyman/-Lab-2-Backup-EC2-PostgreSQL-Docker-Based-/tree/main)
 
 * Logical backups with `pg_dump`
 * Disk validation
 * Troubleshooting scenarios
 
-👉 **[Go to Part 3](./lab-02-backup-ec2-postgres)**
+👉 **[Go to Part 3](https://github.com/1suleyman/-Lab-2-Backup-EC2-PostgreSQL-Docker-Based-/tree/main)**
 
 ---
 
