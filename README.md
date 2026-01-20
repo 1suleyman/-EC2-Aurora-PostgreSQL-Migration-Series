@@ -81,7 +81,7 @@ Each part builds intentionally toward an **enterprise-grade migration**, coverin
 
 ## ⭐ **Part 4 — Deploy Aurora with Terraform**
 
-📁 **Path:** [`lab-03-aurora-terraform`](./lab-03-aurora-terraform)
+📁 **Path:** [`lab-03-aurora-terraform`](https://github.com/1suleyman/Lab-3-Deploy-Aurora-PostgreSQL-Verify-Connectivity-Terraform-/tree/main)
 
 * Aurora Serverless v2
 * Private subnets
@@ -89,7 +89,7 @@ Each part builds intentionally toward an **enterprise-grade migration**, coverin
 * Security groups
 * Terraform outputs
 
-👉 **[Go to Part 4](./lab-03-aurora-terraform)**
+👉 **[Go to Part 4](https://github.com/1suleyman/Lab-3-Deploy-Aurora-PostgreSQL-Verify-Connectivity-Terraform-/tree/main)**
 
 ---
 
