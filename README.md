@@ -93,7 +93,7 @@ Each part builds intentionally toward an **enterprise-grade migration**, coverin
 
 ---
 
-## ⭐ **Part 5 — Restore Into Aurora (Users Included)**
+## ⭐ **Part 5 — Restore Into Aurora (Users Included)(Coming soon)**
 
 📁 **Path:** [`lab-04-restore-into-aurora`](./lab-04-restore-into-aurora)
 
@@ -106,7 +106,7 @@ Each part builds intentionally toward an **enterprise-grade migration**, coverin
 
 ---
 
-## ⭐ **Part 6 — Application Cutover**
+## ⭐ **Part 6 — Application Cutover (Coming soon)**
 
 📁 **Path:** [`lab-05-app-cutover`](./lab-05-app-cutover)
 
@@ -119,7 +119,7 @@ Each part builds intentionally toward an **enterprise-grade migration**, coverin
 
 ---
 
-## ⭐ **Part 7 — Enterprise-Level Enhancements**
+## ⭐ **Part 7 — Enterprise-Level Enhancements (Coming soon)**
 
 📁 **Path:** [`lab-06-enterprise-addons`](./lab-06-enterprise-addons)
 
@@ -133,7 +133,7 @@ Each part builds intentionally toward an **enterprise-grade migration**, coverin
 
 ---
 
-## ⭐ **Part 8 — Cost Optimization**
+## ⭐ **Part 8 — Cost Optimisation (Coming soon)**
 
 📁 **Path:** [`lab-07-cost-optimization`](./lab-07-cost-optimization)
 
@@ -145,7 +145,7 @@ Each part builds intentionally toward an **enterprise-grade migration**, coverin
 
 ---
 
-## ⭐ **Part 9 — Final Validation & Decommissioning**
+## ⭐ **Part 9 — Final Validation & Decommissioning (Coming soon)**
 
 📁 **Path:** [`lab-08-validation-decommission`](./lab-08-validation-decommission)
 
